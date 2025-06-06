@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=
+kernel.string=SukiSUUltra by KernelSU Developers and other people | Built by OdyMarGamer
 do.devicecheck=0
 do.modules=0
 do.cleanup=1
